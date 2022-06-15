@@ -1,0 +1,6 @@
+QTableView {
+  selection-background-color: qlineargradient(x1: 1, y1: 1, x2: 0, y2: 0,
+                              stop: 0 rgb(151, 150, 240), stop: 1 rgb(251, 199, 212));
+  /*alternate-background-color: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1,
+                              stop: 0 rgb(172, 182, 229), stop: 1 rgb(134, 253, 232));*/
+}
